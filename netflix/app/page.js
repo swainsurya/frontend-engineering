@@ -3,8 +3,10 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div>
-      <Header/>
+    <div className=''>
+      <div className='w-full h-[90vh] relative' style={{ backgroundImage: "url(/background.png)" }} >
+        <Header />
+      </div>
     </div>
   )
 }

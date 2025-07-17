@@ -15,7 +15,7 @@ const Header = () => {
         </div>
       </nav>
       {/* header */}
-      <div className='h-screen flex flex-col items-center justify-center gap-9'>
+      <div className='h-[920px] flex flex-col items-center justify-center gap-9'>
         <div className='flex flex-col items-center text-6xl font-bold'>
           <span>Unlimited movies, TV</span>
           <span>shows and more</span>
